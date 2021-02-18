@@ -47,10 +47,10 @@
 
 
 **Table**
-|Name|Branch|College|
-|-----|-----|-----|
-|abc|cse|vrsec|
-|xyz|it|vrsec|
+Name|Branch|College
+-----|-----|-----
+abc|cse|vrsec
+xyz|it|vrsec
 
 **Code**
 ```
